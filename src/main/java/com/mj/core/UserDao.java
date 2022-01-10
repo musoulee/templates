@@ -1,4 +1,4 @@
-package com.mj.core.dao;
+package com.mj.core;
 
 public interface UserDao {
 }
